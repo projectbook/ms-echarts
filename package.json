@@ -3,7 +3,7 @@
     "zrender": "projectbook/ms-zrender"
   },
   "description": "A powerful charting and visualization library for browser. 为临时解决百度 ECharts 缩放后 鼠标位置不对的bug",
-  "name": "ms-echarts",
+  "name": "echarts",
   "scripts": {
   },
   "version": "3.2.5"
