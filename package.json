@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "zrender": "https://github.com/projectbook/ms-zrender.git"
+    "zrender": "projectbook/ms-zrender"
   },
   "description": "A powerful charting and visualization library for browser. 为临时解决百度 ECharts 缩放后 鼠标位置不对的bug",
   "name": "ms-echarts",
   "scripts": {
   },
-  "version": "3.2.4"
+  "version": "3.2.5"
 }
